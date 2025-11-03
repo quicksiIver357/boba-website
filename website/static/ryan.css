@@ -1,0 +1,35 @@
+section {
+    background-color: darkgray;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+p {
+    color: darkgray;
+    font-family: "Ohmynotes", serif;
+}
+
+title {
+    font-family: "Flagflies", serif;
+}
+
+h1 {
+    font-family: "Transcity", serif;
+}
+
+/* font declaration */
+@font-face {
+    font-family: "Flagfies";
+    src: url("../fonts/Flagfies.ttf");
+}
+
+@font-face {
+    font-family: "Transcity";
+    src: url("../fonts/Transcity.otf");
+}
+
+@font-face {
+    font-family: "Ohmynotes";
+    src: url("../fonts/Ohmynotes.ttf");
+}
